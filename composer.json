@@ -1,0 +1,14 @@
+{
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/Yannik/HttpNetApi"
+        }
+    ],
+    "require": {
+        "Yannik/HttpNetApi": "*@dev",
+        "guzzlehttp/guzzle": "^6.1",
+        "layershifter/tld-extract": "^0.2.0",
+        "vlucas/phpdotenv": "^2.2"
+    }
+}
